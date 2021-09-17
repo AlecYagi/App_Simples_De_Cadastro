@@ -1,0 +1,7 @@
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\bin\Debug\ListaDeJogos.exe.config
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\bin\Debug\ListaDeJogos.exe
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\bin\Debug\ListaDeJogos.pdb
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\obj\Debug\ListaDeJogos.csprojAssemblyReference.cache
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\obj\Debug\ListaDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\obj\Debug\ListaDeJogos.exe
+C:\Users\alecr\Desktop\ListaDeJogos\ListaDeJogos\obj\Debug\ListaDeJogos.pdb
